@@ -21,7 +21,7 @@ const fetchBroadcastData = async () => {
 };
 
 const broadcastRandomMessage = () => {
-  const randomMessage = broadcastConfig.data.length > 0 ? broadcastConfig.data[Math.floor(Math.random() * broadcastConfig.data.length)] : 'Ae Zui Zẻ Nhé !';
+  const randomMessage = broadcastConfig.data.length > 0 ? broadcastConfig.data[Math.floor(Math.random() * broadcastConfig.data.length)] : 'PREM PROJECT FCA';
   logger.Normal(randomMessage);
 };
 
