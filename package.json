@@ -1,6 +1,6 @@
 {
-  "name": "prem-babu-api",
-  "version": "20.1.0",
+  "name": "api-prem-babu",
+  "version": "20.2.0",
   "description": "THIS PROJECT IS MADE BY MR PREM BABU",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   "author": "PREM BABU",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/prem-project3608/prem-babu-api/issues"
+    "url": "https://github.com/prem-project3608/api-prem-babu/issues"
   },
-  "homepage": "https://github.com/prem-project3608/prem-babu-api#readme",
+  "homepage": "https://github.com/prem-project3608/api-prem-babu#readme",
   "repository": {
     "type": "git",
-    "url": "git:https://github.com/prem-project3608/prem-babu-api.git"
+    "url": "git:https://github.com/prem-project3608/api-prem-babu.git"
   },
   "dependencies": {
     "aes-js": "latest",
